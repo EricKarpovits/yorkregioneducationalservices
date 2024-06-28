@@ -12,6 +12,8 @@ celina.yueh@upluseducation.ca
 ## Description of the project
 The product is a web application for planning summer camps. The website allows the user to input a floor plan, rooms, activities, students, and counselors. Details about each element will be included in the input. For example, an individual student will have information about their name, age, sex and group preferences. To make this easier we allow mass import through CSV files. The website will then generate groups and schedules based on the inputted information. The benefits of our application are the simplification of the scheduling process, the accuracy afforded, and the ease of distribution for the schedule. Our app solves the problem of course coordinators having to manually create schedules accounting for various complicated factors and the distribution of the schedules.
 
+[Demo Slide Deck](https://docs.google.com/presentation/d/10hEbkAtJbb-tXkpQSNH1k_rGZ_HUAoD1L_ziDv43zU8/edit?usp=sharing)
+
 ## Key Features
 ### Profile management
 Users can add two types of profiles: student and counselor. They can add them manually, one by one, through a form activated from a button, or by importing a .csv file. The added profile will be stored in a database, and displayed to the user in a table. Users will be able to search for, edit, and delete those profiles in the table. There is a search bar above the table and there are edit and delete icons that allow for profile alteration. Editing presents the same form as adding, with each field corresponding to an attribute.
